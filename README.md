@@ -5,7 +5,7 @@
 $$
    \\begin{array}{cc}
      a & b \\\\
-     c & c
+     c & c \\\\
      d & d
    \\end{array}
 $$
