@@ -6,5 +6,5 @@ $$
    \begin{array}{c}
      a & b \\
      c & c \\
-   \end{array}
-$$
+   \end{array}$$
+
