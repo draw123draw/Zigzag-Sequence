@@ -4,6 +4,6 @@
 
  $$
    \begin{array}{c}
-     {x_1} & x_2 \\
+     {{x_1}} & x_2 \\
      c & c \\
    \end{array}$$
