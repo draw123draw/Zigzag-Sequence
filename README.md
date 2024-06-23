@@ -11,4 +11,4 @@ $$
  \end{array} } \right] \to \left[ {{x_1},{x_2},{x_5},{x_9},{x_6},{x_3},{x_4},{x_7},{x_{10}},{x_{13}},{x_{14}},{x_{11}},{x_8},{x_{12}},{x_{15}},{x_{16}}} \right]
 $$
 
-![image](Zigzag-Sequence/blob/main/1.png)
+![image](https://github.com/draw123draw/Zigzag-Sequence/blob/main/concept.png)
