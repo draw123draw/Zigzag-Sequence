@@ -3,8 +3,8 @@
 性能上该算法存在优化空间，可提前计算好右上方和左下方的步长，并由C语言改写以提升计算效率
  
 $$
-   \\begin{array}{c}
+   \begin{array}{c}
      a & b \\
      c & c \\
-   \\end{array}
+   \end{array}
 $$
