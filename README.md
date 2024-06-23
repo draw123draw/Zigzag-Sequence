@@ -6,5 +6,6 @@ $$
    \\begin{array}{cc}
      a & b \\\\
      c & c
+     d & d
    \\end{array}
 $$
